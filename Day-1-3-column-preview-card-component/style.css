@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+    width: 100%;
+    font-size: 15px;
+    background:  hsl(0, 0%, 95%)
+    
+}
+.container {
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Inter', sans-serif;
+    padding-top: 64px;
+
+   
+}
+img {
+    max-width: 50px;
+}
+h1{
+    padding: 32px 0 ;
+    color: hsl(0, 0%, 95%);
+    font-family: 'Big Shoulders Display', cursive;
+}
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+    padding-bottom: 32px;
+}
+.button{
+    border-radius: 30px;
+    padding: 8px  24px;
+    width:fit-content;
+    margin-top: 64px;
+    padding-right: 12px;
+    cursor: pointer;
+}
+.one {
+    
+    background-color:hsl(31, 77%, 52%) ; 
+    padding: 32px 32px 64px 32px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  
+}
+.two {
+    background-color:  hsl(184, 100%, 22%); 
+    padding: 32px 32px 64px 32px 
+}  
+.three {
+    background-color: hsl(179, 100%, 13%);
+    padding: 32px 32px 64px 32px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;   
+}
+
+.button-one{
+    color:hsl(31, 77%, 52%)  ;
+}
+.button-one:hover {
+    color: hsl(0, 0%, 95%);
+    border: 1px solid hsl(0, 0%, 95%); ;
+    background-color: hsl(31, 77%, 52%);
+  }
+  .button-two{
+    color:hsl(184, 100%, 22%);
+}
+.button-two:hover {
+    color: hsl(0, 0%, 95%);
+    border: 1px solid hsl(0, 0%, 95%); ;
+    background-color: hsl(184, 100%, 22%); 
+  }
+
+.button-three{
+    color:hsl(179, 100%, 13%);
+}
+.button-three:hover {
+    color: hsl(0, 0%, 95%);
+    border: 1px solid hsl(0, 0%, 95%); ;
+    background-color: hsl(179, 100%, 13%);
+  }
+ 
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+@media  only screen and  (max-width: 800px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        padding: 16px;
+        justify-content: center;
+        align-items: center;
+    }
+    img {
+        max-width: 40px;
+    }
+   
+    p {
+        padding-bottom: 16px;
+    }
+    .button{
+        margin-top: 32px;
+
+    }
+    .one {
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+    .two {
+      
+    }  
+    .three {
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;  
+    }
+    
+}
