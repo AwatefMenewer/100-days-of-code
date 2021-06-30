@@ -16,4 +16,10 @@
 
 **Today's Progress**: Review fundamental of Javascript
 
+### Day 3: June  30, 2021
+
+**Today's Progress**: Review fundamental of Javascript
+
+**Link to work:** [Your-Age-In-Days](https://gallant-swartz-2a796d.netlify.app/)
+
 
