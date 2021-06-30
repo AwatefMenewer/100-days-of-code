@@ -1,0 +1,16 @@
+body{
+    background-color: azure;
+}
+.main-container {
+  padding-top: 200px;
+  margin-bottom: 64px;
+    text-align: center;
+    align-items: center;
+}
+h4 {
+    padding-bottom: 32px; 
+}
+
+#input {
+    padding-top: 32px;
+}
