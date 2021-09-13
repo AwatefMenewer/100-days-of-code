@@ -1,0 +1,109 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Inter', sans-serif;
+    background-color:  hsl(233, 47%, 7%);
+    color: hsl(0, 0%, 100%);
+    max-width: 1440px;
+    padding-top: 64px;  
+}
+.card{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    max-width: 1200px;
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+ .card-text{ 
+    color: hsla(0, 0%, 100%, 0.75);
+    padding: 70px 100px 70px 70px;
+
+}
+ .main-text{
+    display: block;
+    color:hsl(0, 0%, 100%);
+    margin-bottom: 32px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.main-text span {
+    color:hsl(277, 64%, 61%);
+
+}
+.sub-text{
+    font-size: 18px;
+    line-height: 32px; 
+    padding-right: 24px;
+    color: hsla(0, 0%, 100%, 0.6);
+    margin-bottom: 64px;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;  
+}
+.list-item{
+    font-size: 26px;
+    font-weight: bold;
+    color:   hsl(0, 0%, 100%);   
+}
+.list span {
+ 
+    display: block;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 14px;
+    color: hsla(0, 0%, 100%, 0.6);
+    opacity: 0.8; 
+}
+
+.card-image {
+  
+    background: url(images/image-header-desktop.jpg), hsl(277, 64%, 61%);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+    border-radius: 0px 20px 20px 0px;
+}
+@media only screen and (max-width: 800px) {
+    body{
+     
+        padding-top:8px;
+     
+    }
+    
+    
+    .card{
+        display: flex;
+        flex-direction: column-reverse;
+        margin: 20px;
+        text-align: center;
+        border-radius: 7px;
+    }
+   
+    .main-text{
+        font-size: 30px;
+        font-weight: bold;
+    }
+  
+  .card-image {
+    background-image: url(images/image-header-mobile.jpg);
+    border-radius: 10px 10px 0px 0px;
+    height: 250px;
+  }
+  .list{
+    flex-direction: column;
+    justify-content: center;
+    list-style: none;
+    margin: 16px;  
+} 
+
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
