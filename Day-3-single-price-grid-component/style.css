@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+body {
+    font-family:  'Karla', sans-serif;
+    font-size: 16px;
+    max-width: 1440px;
+    width: 50%;
+    padding-left:25%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: hsl(204, 43%, 93%)
+   
+    
+}
+.contanier {
+
+    display: grid;
+    justify-content: center;
+    justify-items: stretch;
+    grid-template-columns:  auto auto auto;
+    grid-template-areas:
+    'header  header'
+    'menu  main';
+    border: 2px solid hsl(204, 43%, 93%);
+    border-radius: 6px;
+    
+ }
+ .one {
+    grid-area: header;
+    padding: 30px 50px 30px 30px;
+    background-color:whitesmoke
+ }
+ .one  h2 {
+    color: hsl(179, 62%, 43%);
+    font-weight:700;
+
+ }
+ .one h3 {
+    color:  hsl(71, 73%, 54%);
+    font-weight:700;
+ 
+ }
+ .one p {
+    color:hsl(218, 22%, 67%);
+    line-height: 30px;
+ }
+ .two {
+    grid-area: menu;
+    padding: 30px;
+    background-color: hsl(179, 62%, 43%);
+    color: hsl(204, 43%, 93%);
+     
+ }
+ .two h3 {  
+    font-weight:700;
+ }
+ .two strong {
+    font-size: 32px;
+ }
+ .two small {
+    color:hsl(204, 43%, 93%);
+    font-size: 14px;
+
+ }
+ button {
+    background-color:  hsl(71, 73%, 54%);
+    border: none;
+    display: block;
+    width: 93%;
+    margin: 4px 2px;
+    height: 50px;
+    color:white;
+    font-size: 18px;
+ }
+ .three {
+    background-color: hsl(178, 60%, 45%);
+    color:white;
+    grid-area: main;
+    align-content: stretch;  
+    padding: 30px;  
+   
+ }
+ .three p {
+    line-height: 22px;
+    color:hsl(204, 43%, 93%)
+     
+ }
+
+ @media only screen and (max-width: 660px) {
+    body {
+      font-size: 14px;
+    }
+    .contanier {
+        display:flex;
+        flex-direction: column;
+        justify-items: flex-start;
+    }
+    .one p  {
+        line-height: 22px;
+
+    }
+
+  }
