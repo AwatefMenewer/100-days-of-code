@@ -31,3 +31,9 @@
 **Today's Progress**: Review ES6 in javascript 
 
 **Link to work:**[Social-Proof](https://pensive-knuth-957104.netlify.app/)
+
+### Day 5:  September  17, 2021
+
+**Today's Progress**: Review ES6 in javascript
+
+**Link to work:**[Landing-Page](https://hardcore-lalande-b2425d.netlify.app/)
