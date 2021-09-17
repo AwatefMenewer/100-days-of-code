@@ -20,8 +20,14 @@
 
 **Link to work:** [Your-Age-In-Days](https://gallant-swartz-2a796d.netlify.app/)
 
-# Day 3:  September  15, 2021
+### Day 3:  September  15, 2021
 
 **Today's Progress**: Review ES6 in javascript and learn flex and grid
 
 **Link to work:** [Single-Price](https://nifty-easley-091ec7.netlify.app/)
+
+### Day 4:  September  16, 2021
+
+**Today's Progress**: Review ES6 in javascript 
+
+**Link to work:**[Social-Proof](https://pensive-knuth-957104.netlify.app/)

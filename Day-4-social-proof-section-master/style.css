@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;700&display=swap');
+
+body {
+    background-image: url('images/bg-pattern-top-desktop.svg'), url('images/bg-pattern-bottom-desktop.svg');
+    background-repeat: no-repeat;
+    background-position: top 0 left 0, right 0 bottom 0;
+    font-family: 'Spartan', sans-serif;
+    font-size: 15px;
+}
+.contanier {
+    width:83%;
+    margin: auto; 
+}
+.header {
+    display: flex;
+    padding: 48px 0;
+    margin: 16px 0;
+    justify-content: space-between;
+    color: hsl(300, 43%, 22%) ;
+}
+.text h1{
+    font-family: 'Spartan', sans-serif;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+
+.point  > div {
+    padding: 18px;
+    margin-bottom: 26px;
+    align-items: stretch;
+    border-radius: 6px ;
+    background-color: hsl(300, 100%, 98%) ;
+    font-weight: 600; 
+  
+}
+.one{
+    margin-right: 100px;
+
+}
+.two {
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.three {
+    margin-left: 100px;
+
+}
+.point p {
+    display: inline;
+}
+.wapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.card{
+    background-color: hsl(300, 43%, 22%);
+    padding: 32px 12px;
+    width: 30%;
+    border-radius: 6px;
+    color: hsl(0, 0%, 100%);
+}
+
+.person{
+display: flex;
+align-items: center;
+
+}
+.img {
+    border-radius: 50%;
+    width: 60px;
+}
+.info {
+    margin-left: 30px;
+}
+
+.name  {
+    font-weight: 600;
+    font-size: 00.873rem;
+}
+
+.verified {
+    margin-top: 5px;
+    color: hsl(333, 80%, 67%);
+}
+
+.description {
+    font-size: 0.8rem;
+    margin-top: 20px;
+    line-height: 1.5;
+}
+
+.card-2 {
+    margin-top: 30px;
+}
+
+.card-3 {
+    margin-top: 70px;
+}
+
+@media only screen and (max-width: 660px) {
+    .contanier {
+        width:75%;
+        margin:  auto;
+        justify-content: center;
+        align-items: center;
+        
+    }
+  
+    .header {
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-content: center;
+        color: hsl(300, 43%, 22%) ;
+        padding: 48px 0;
+        margin: 16px 0;
+    }
+  
+    .text h1{
+        font-family: 'Spartan', sans-serif;
+        margin: 0 auto;
+        align-items: center;
+     
+    }
+    .text p {
+        align-items: center;
+
+    }
+    
+    .point > div {
+      padding: 18px;
+      border-radius: 6px ;
+      background-color: hsl(300, 100%, 98%) ;
+      font-weight: 600; 
+      align-items: center;
+    }
+    .one {
+        margin-right: 0;
+    }
+    .two {
+        margin-left: 0;
+        margin-right: 0
+    }
+    
+    .three {
+        margin-left: 0;
+    
+    }
+    .point p {
+        display: block;
+    }
+
+    .wapper{
+        display: grid;
+        align-items: center;
+        grid-template-columns: auto;
+        justify-content: space-between;
+    
+    }
+    .card{
+        background-color: hsl(300, 43%, 22%);
+        padding: 32px 12px;
+        width: auto;
+        border-radius: 6px;
+        color: hsl(0, 0%, 100%);
+    }
+    
+   
+    .card-2 {
+        margin-top: 30px;
+    }
+    
+    .card-3 {
+        margin-top: 30px;
+    }
+    
+
+}
+    
