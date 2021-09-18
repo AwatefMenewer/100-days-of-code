@@ -42,6 +42,6 @@
 
 **Today's Progress**: Review ES6 in javascript
 
-**Link to work:**[Landing-Page](https://dazzling-babbage-3741d9.netlify.app/)
+**Link to work:**[Four-Cards](https://dazzling-babbage-3741d9.netlify.app/)
 
 
