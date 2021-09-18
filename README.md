@@ -37,3 +37,11 @@
 **Today's Progress**: Review ES6 in javascript
 
 **Link to work:**[Landing-Page](https://hardcore-lalande-b2425d.netlify.app/)
+
+### Day 6:  September  18, 2021
+
+**Today's Progress**: Review ES6 in javascript
+
+**Link to work:**[Landing-Page](https://dazzling-babbage-3741d9.netlify.app/)
+
+

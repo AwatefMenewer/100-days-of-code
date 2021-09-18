@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.contanier{
+    width: 80%;
+    margin: 0 auto;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+.header {
+  text-align: center;
+  margin: 6rem 0;
+}
+.header-light {
+    font-weight: 200;
+    color: hsl(229, 6%, 66%)
+}
+.header-border {
+    font-weight: 700;
+    color: hsl(234, 12%, 34%)
+}
+.header-text {
+    color: hsl(229, 6%, 66%)
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+
+  }
+  
+  .card {
+    background-color: hsl(0, 0%, 98%);
+    width: 28%;
+    margin: 0px;
+    padding: 12px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+
+  }
+  
+  .card-title {
+    font-size: 22px;
+    color:  hsl(234, 12%, 34%)
+
+  }
+  .card-text{
+      color:   hsl(229, 6%, 66%);
+      margin-bottom: 16px;
+
+  }
+  
+  .card img {
+    width: 30%;
+    margin-left: 60%;
+    margin-bottom: 16px;
+  }
+  .card-1 {
+      margin: 100px 0 0 0;
+
+      box-shadow: 0 3px 10px rgb(0 0 0 / 0.2)
+      0 8px inset hsl(180, 62%, 55%);
+      
+
+  }
+
+  .card-2 {
+    margin: 0 0 100px 0;
+    box-shadow:   0 8px inset hsl(0, 78%, 62%);
+
+}
+
+.card-3 {
+    margin: 100px 0 0 0;
+    box-shadow:   0 8px inset hsl(34, 97%, 64%)
+
+}
+.card-4 {
+    margin: -100px 0 0 320px;
+    box-shadow:   0 8px inset hsl(212, 86%, 64%);
+
+}
+
+@media only screen and (max-width: 800px) {
+    .contanier {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        gap: 0;
+        width: 90%;
+    }
+    .cards {
+     display: grid;
+     grid-template-columns: auto;
+     grid-row-gap: 0;
+     grid-column-gap:2rem;
+    
+      }
+      .card {
+        background-color: hsl(0, 0%, 98%);
+        width: 90%;
+        margin: 0px;
+        padding: 10px;
+        border: 1px solid lightgrey;
+        border-radius: 10px;
+    
+      }
+   
+    
+    .card-title {
+      font-size: 22px;
+      color:  hsl(234, 12%, 34%)
+  
+    }
+    .card-text{
+        color:   hsl(229, 6%, 66%);
+        margin-bottom: 16px;
+  
+    }
+    
+    .card img {
+      width: 30%;
+      margin-left: 60%;
+      margin-bottom: 16px;
+    }
+    .card-1 {
+        margin: 0 0 12px 0; ;
+       
+        box-shadow:   0 8px inset hsl(180, 62%, 55%);
+       
+        
+  
+    }
+  
+    .card-2 {
+      margin: 0 0 12px 0;
+      box-shadow:   0 8px inset hsl(0, 78%, 62%);
+  
+  }
+  
+  .card-3 {
+      margin: 0 0 12px 0;
+      box-shadow:   0 8px inset hsl(34, 97%, 64%)
+  
+  }
+  .card-4 {
+      margin:0 0 12px 0; ;
+      box-shadow:   0 8px inset hsl(212, 86%, 64%);
+  
+  }
+  
+
+}
+
+
+
+
+
+
+
+
+
