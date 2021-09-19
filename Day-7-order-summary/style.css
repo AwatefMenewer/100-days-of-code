@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap');
+body {
+    background-color: hsl(225, 100%, 94%);
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 16px;
+    
+}
+
+.constanier {
+    width: 33%;
+    margin: auto;
+    margin-top: 64px;
+    background-color: white;
+    border-radius: 20px ;
+}
+.header  img{
+    width: 100%;
+    border-radius: 20px 20px 0  0 ;
+}
+
+.main {
+    padding: 16px;
+    text-align: center ;
+}
+card-title{
+font-weight: 900;
+color:hsl(223, 47%, 23%)
+}
+.card-text {
+    color: hsl(224, 23%, 55%);
+    margin: 16px;
+}
+.card-flex {
+    display: grid;
+    grid-template-columns: auto auto auto  auto ;
+    grid-template-rows: auto auto;
+    margin: auto;
+    background-color: hsl(225, 100%, 98%); 
+    width: 80%;
+    height: 92px;
+    border-radius: 10px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.card-flex img {
+    margin: 20px  6px 12px 12px;
+
+}
+
+.flex-name{
+    font-weight: bolder;
+    margin: 20px  6px 12px -100px;
+
+}
+.flex-change{
+    margin: 30px  6px 12px 28px;
+}
+.flex-change:hover {
+    color:   hsl(245, 75%, 52%)
+}
+
+.flex-price {
+    display: block;
+    margin: -40px  0 0 80px;
+    color: hsl(224, 23%, 55%);
+}
+.button {
+    margin: auto;
+    display: block;
+    width: 80%;
+    height: 48px;
+    border-radius: 10px;
+    font-weight: 700;
+    margin-bottom: 10px;
+
+}
+
+.payment-button {
+  
+    border: 1px solid hsl(245, 75%, 52%);
+    background-color:  hsl(245, 75%, 52%);
+    color:white;
+
+}
+.payment-button:hover {
+    border: 1px solid  hsl(223, 47%, 23%);
+    background-color: hsl(223, 47%, 23%)
+
+}
+.cancel-button {
+
+    border: 1px solid white;
+    background-color: white; 
+    color:   hsl(223, 47%, 23%)
+ 
+
+}
+

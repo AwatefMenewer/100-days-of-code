@@ -45,3 +45,10 @@
 **Link to work:**[Four-Cards](https://dazzling-babbage-3741d9.netlify.app/)
 
 
+### Day 7:  September  19, 2021
+
+**Today's Progress**: Review ES6 in javascript
+
+**Link to work:**[Order-Summary](https://infallible-lewin-2d59ec.netlify.app/)
+
+
