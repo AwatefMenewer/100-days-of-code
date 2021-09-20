@@ -51,4 +51,10 @@
 
 **Link to work:**[Order-Summary](https://infallible-lewin-2d59ec.netlify.app/)
 
+### Day 8:  September  20, 2021
+
+**Today's Progress**: Review ES6 in javascript 
+
+**Link to work:** [Guess-The-Number](https://eager-banach-bdc7bc.netlify.app/)
+
 
