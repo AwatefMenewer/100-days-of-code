@@ -57,4 +57,10 @@
 
 **Link to work:** [Guess-The-Number](https://eager-banach-bdc7bc.netlify.app/)
 
+### Day 9:  September  21, 2021
+
+**Today's Progress**: Review ES6 in javascript  
+
+**Link to work:** [Sort-IMDB-movie](https://quizzical-blackwell-e07df0.netlify.app/)
+
 
