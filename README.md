@@ -67,6 +67,6 @@
 
 **Today's Progress**: Review ES6 in javascript and Learn grid 
 
-**Link to work:** [Sort-IMDB-movie](https://elegant-yonath-4c19a1.netlify.app/)
+**Link to work:** [Profile-Card](https://elegant-yonath-4c19a1.netlify.app/)
 
 
