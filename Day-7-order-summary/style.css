@@ -92,7 +92,42 @@ color:hsl(223, 47%, 23%)
     border: 1px solid white;
     background-color: white; 
     color:   hsl(223, 47%, 23%)
- 
 
 }
+
+@media only screen and (max-width: 900px) {
+  
+    .constanier {
+        width: 40%;
+        margin: auto;
+        margin-top: 64px;
+        background-color: white;
+        border-radius: 20px ;
+    }
+  }
+
+  @media only screen and (max-width: 700px) {
+  
+    .constanier {
+        width: 50%;
+        margin: auto;
+        margin-top: 64px;
+        background-color: white;
+        border-radius: 20px ;
+    }
+  }
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+    .constanier {
+        width: 70%;
+        margin: auto;
+        margin-top: 64px;
+        background-color: white;
+        border-radius: 20px ;
+    }
+  }
 

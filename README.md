@@ -49,7 +49,7 @@
 
 **Today's Progress**: Review ES6 in javascript
 
-**Link to work:**[Order-Summary](https://infallible-lewin-2d59ec.netlify.app/)
+**Link to work:**[Order-Summary](https://nervous-lalande-d745ed.netlify.app/)
 
 ### Day 8:  September  20, 2021
 
@@ -62,5 +62,11 @@
 **Today's Progress**: Review ES6 in javascript  
 
 **Link to work:** [Sort-IMDB-movie](https://quizzical-blackwell-e07df0.netlify.app/)
+
+### Day 10:  September  22, 2021
+
+**Today's Progress**: Review ES6 in javascript and Learn grid 
+
+**Link to work:** [Sort-IMDB-movie](https://elegant-yonath-4c19a1.netlify.app/)
 
 

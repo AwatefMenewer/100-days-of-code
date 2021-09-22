@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap');
+
+
+body{
+    background-color: hsl(185, 75%, 39%);
+    background-image: url("./images/bg-pattern-top.svg"), url("./images/bg-pattern-bottom.svg");
+    background-repeat: no-repeat, no-repeat;
+    background-position: bottom 40vh right 45vw, top 55vh left 38vw;
+    font-family: 'Kumbh Sans', sans-serif;
+    align-items: center;    
+    font-size: 16px;
+}
+.main-card{
+    margin-top: 64px;
+    padding-top: 100px;
+}
+
+.card {
+    width: 30%;
+    margin: auto;
+    border-radius: 14px;
+    text-align: center;
+    background-color: white;
+
+}
+.header-background {
+    width: 100%;
+    border-radius: 12px 12px 0 0;
+    
+}
+.header-image{
+    margin: -50px  0 0  0;
+    border-radius: 50%;
+    border: 3px solid white;
+
+}
+.card-name {
+    margin: 16px 0 ;
+
+}
+small {
+    font-weight: lighter;
+    color: hsl(0, 0%, 59%)   
+}
+
+hr {
+    color: hsl(0, 0%, 59%)
+}
+
+.card-city{
+    margin: 16px  0 ;
+    color: hsl(0, 0%, 59%)
+
+}
+.card-grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto;
+    justify-content: space-evenly;   
+}
+
+.card-text {
+    color: hsl(0, 0%, 59%);
+    font-weight: 100;
+    margin-top: -16px;   
+}
+
+@media only screen and (max-width: 800px) {
+    body {
+        background-position: bottom 20vh right 25vw, top 35vh left 18vw;
+    
+    }
+  
+    .card {
+        width: 40%;
+   
+    
+    }
+}
+    @media only screen and (max-width: 600px) {
+    
+        .card {
+            width: 60%;
+       
+        }
+    }
