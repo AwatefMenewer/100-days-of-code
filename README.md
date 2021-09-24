@@ -77,6 +77,10 @@
 
 **Link to work:**[Visibility-Toggle](https://upbeat-poitras-9bf23b.netlify.app/)
 
+### Day 12:  September  24, 2021
+
+**Today's Progress**: I've reviewed Reacts basic concept through [Reacts docs](https://reactjs.org/tutorial/tutorial.html)
+
 
 
 
