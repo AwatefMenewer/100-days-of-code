@@ -69,4 +69,15 @@
 
 **Link to work:** [Profile-Card](https://elegant-yonath-4c19a1.netlify.app/)
 
+### Day 11:  September  23, 2021
+
+**Today's Progress**: I started creating my first React App and learned about JSX
+
+**Thoughts**: I still need to familiarize myself with these new concepts.
+
+**Link to work:**[Visibility-Toggle](https://upbeat-poitras-9bf23b.netlify.app/)
+
+
+
+
 
