@@ -81,7 +81,11 @@
 
 **Today's Progress**: I've reviewed Reacts basic concept through [Reacts docs](https://reactjs.org/tutorial/tutorial.html)
 
+### Day 13:  September  25, 2021
 
+**Today's Progress**: Continue learning Arrays in JSX
+
+**Thoughts**:[Here-artical](https://reactjs.org/docs/lists-and-keys.html)
 
 
 
