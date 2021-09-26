@@ -87,5 +87,9 @@
 
 **Thoughts**:[Here-artical](https://reactjs.org/docs/lists-and-keys.html)
 
+ ### Day 14:  September  26, 2021
 
+**Today's Progress**: Continue learning React Components and start read chapter one of cracking the coding interview
+
+**Thoughts**:[React-Components](https://reactjs.org/docs/react-component.html)
 
