@@ -93,3 +93,9 @@
 
 **Thoughts**:[React-Components](https://reactjs.org/docs/react-component.html)
 
+
+### Day 15:  September  27, 2021
+
+**Today's Progress**: Continue learning components and props in react and complete read chapter one of cracking the coding interview
+
+**Thoughts**:[Components-and -Props](https://reactjs.org/docs/components-and-props.html)
