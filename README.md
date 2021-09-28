@@ -99,3 +99,11 @@
 **Today's Progress**: Continue learning components and props in react and complete read chapter one of cracking the coding interview
 
 **Thoughts**:[Components-and -Props](https://reactjs.org/docs/components-and-props.html)
+
+
+### Day 16:  September  28, 2021
+
+**Today's Progress**: Continue learned  props and State in react and  read chapter two of cracking the coding interview
+
+**Thoughts**:[Props-and-State](https://reactjs.org/docs/faq-state.html)
+
