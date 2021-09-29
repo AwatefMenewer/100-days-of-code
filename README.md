@@ -107,3 +107,8 @@
 
 **Thoughts**:[Props-and-State](https://reactjs.org/docs/faq-state.html)
 
+### Day 17:  September  29, 2021
+
+**Today's Progress**:   I started creating app in react and complete chapter two of cracking the coding interview
+
+
