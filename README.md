@@ -111,4 +111,7 @@
 
 **Today's Progress**:   I started creating app in react and complete chapter two of cracking the coding interview
 
+### Day 18:  September  30, 2021
+
+**Today's Progress**:   Continue creating app in react and read chapter three of cracking the coding interview
 
