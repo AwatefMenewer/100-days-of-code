@@ -118,3 +118,7 @@
 ### Day 19:  Oct  1, 2021
 
 **Today's Progress**:   Review components in react and read chapter three of cracking the coding interview
+
+### Day 20:  Oct  2, 2021
+
+**Today's Progress**:   Start learn webpack in react and read chapter three of cracking the coding interview
