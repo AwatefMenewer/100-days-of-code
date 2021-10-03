@@ -122,3 +122,10 @@
 ### Day 20:  Oct  2, 2021
 
 **Today's Progress**:   Start learn webpack in react and read chapter three of cracking the coding interview
+
+### Day 21:  Oct  3, 2021
+
+**Today's Progress**: Build mini-project in react and Continue read chapter three of cracking the coding interview
+
+**Thoughts**:[Indecision-App](https://inspiring-bose-40b8e2.netlify.app/)
+
