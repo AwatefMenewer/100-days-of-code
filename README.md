@@ -134,4 +134,8 @@
 **Today's Progress**:  Continue read chapter three of cracking the coding interview and start challenge in code war
 
 
+### Day 23:  Oct  5, 2021
 
+**Today's Progress**:  Continue read chapter three of cracking the coding interview and start challenge in code war and build min-project 
+
+**Thoughts**:[Soon-Page](https://condescending-cray-545e92.netlify.app/)
