@@ -129,3 +129,9 @@
 
 **Thoughts**:[Indecision-App](https://inspiring-bose-40b8e2.netlify.app/)
 
+### Day 22:  Oct  4, 2021
+
+**Today's Progress**:  Continue read chapter three of cracking the coding interview and start challenge in code war
+
+
+
