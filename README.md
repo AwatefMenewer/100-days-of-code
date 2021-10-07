@@ -139,3 +139,10 @@
 **Today's Progress**:  Continue read chapter three of cracking the coding interview and start challenge in code war and build min-project 
 
 **Thoughts**:[Soon-Page](https://condescending-cray-545e92.netlify.app/)
+
+### Day 24:  Oct  6, 2021
+
+**Today's Progress**:  Learned stateless Functional Components in react here good article[Stateful vs. Stateless Functional Components in React](https://code.tutsplus.com/tutorials/stateful-vs-stateless-functional-components-in-react--cms-29541)
+Continue read chapter three of cracking the coding interview  
+
+
