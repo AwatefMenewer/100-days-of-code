@@ -150,3 +150,9 @@ Continue read chapter three of cracking the coding interview
 
 **Today's Progress**:  Continue learned stateless Functional Components in react 
 and Continue challenge in codewar 
+
+
+### Day 26:  Oct  8, 2021
+
+**Today's Progress**:  Continue challenge in codewar and read chapter four of cracking the coding interview  
+
