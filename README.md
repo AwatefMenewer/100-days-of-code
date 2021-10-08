@@ -142,7 +142,11 @@
 
 ### Day 24:  Oct  6, 2021
 
-**Today's Progress**:  Learned stateless Functional Components in react here good article[Stateful vs. Stateless Functional Components in React](https://code.tutsplus.com/tutorials/stateful-vs-stateless-functional-components-in-react--cms-29541)
+**Today's Progress**:  Learned stateless Functional Components in react here good article [Stateful vs. Stateless Functional Components in React](https://code.tutsplus.com/tutorials/stateful-vs-stateless-functional-components-in-react--cms-29541)
 Continue read chapter three of cracking the coding interview  
 
 
+### Day 25:  Oct  7, 2021
+
+**Today's Progress**:  Continue learned stateless Functional Components in react 
+and Continue challenge in codewar 
