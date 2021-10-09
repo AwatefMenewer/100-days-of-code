@@ -156,3 +156,6 @@ and Continue challenge in codewar
 
 **Today's Progress**:  Continue challenge in codewar and read chapter four of cracking the coding interview  
 
+### Day 27:  Oct  9, 2021
+
+**Today's Progress**:  Start build mini-project in react ,Continue challenge in codewar and read chapter four of cracking the coding interview 
