@@ -163,6 +163,10 @@ and Continue challenge in codewar
 
  ### Day 28:  Oct  10, 2021
 
-**Today's Progress**:  Learned Default Prop Value in react  [Default-Prop-Value](https://reactjs.org/docs/typechecking-with-proptypes.html) [](),Continue challenge in codewar and read chapter four of cracking the coding interview 
+**Today's Progress**:  Learned Default Prop Value in react  [Default-Prop-Value](https://reactjs.org/docs/typechecking-with-proptypes.html) ,Continue challenge in codewar and read chapter four of cracking the coding interview 
+
+### Day 29:  Oct  11, 2021
+
+**Today's Progress**:  Learned Lifecycle Methods in react  [Lifecycle-Methods](https://reactjs.org/docs/state-and-lifecycle.html) ,Continue challenge in codewar and read chapter four of cracking the coding interview 
 
 
