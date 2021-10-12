@@ -169,4 +169,6 @@ and Continue challenge in codewar
 
 **Today's Progress**:  Learned Lifecycle Methods in react  [Lifecycle-Methods](https://reactjs.org/docs/state-and-lifecycle.html) ,Continue challenge in codewar and read chapter four of cracking the coding interview 
 
+### Day 30:  Oct  12, 2021
 
+**Today's Progress**:  Learned installing & Configuring webpack in react  [Installing & Configuring webpack](https://dev.to/deepanjangh/react-setup-with-webpack-for-beginners-2a8k) ,Continue challenge in codewar and read chapter four of cracking the coding interview 
