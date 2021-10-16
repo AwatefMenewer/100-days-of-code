@@ -172,3 +172,10 @@ and Continue challenge in codewar
 ### Day 30:  Oct  12, 2021
 
 **Today's Progress**:  Learned installing & Configuring webpack in react  [Installing & Configuring webpack](https://dev.to/deepanjangh/react-setup-with-webpack-for-beginners-2a8k) ,Continue challenge in codewar and read chapter four of cracking the coding interview 
+
+
+### Day 31:  Oct  13, 2021
+
+**Today's Progress**:  Learned import and export in react  Continue challenge in codewar 
+
+
