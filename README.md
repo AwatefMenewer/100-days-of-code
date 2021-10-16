@@ -178,4 +178,9 @@ and Continue challenge in codewar
 
 **Today's Progress**:  Learned import and export in react  Continue challenge in codewar 
 
+### Day 32:  Oct  14, 2021
+
+**Today's Progress**:  Learned importing npm modules in react  Continue challenge in codewar 
+
+
 
