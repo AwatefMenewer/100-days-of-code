@@ -187,5 +187,6 @@ and Continue challenge in codewar
 
 **Today's Progress**:  Learned using a third party component in react  Continue challenge in codewar 
 
+### Day 34:  Oct  16, 2021
 
-
+**Today's Progress**:  Learned how Passing children to component in react  Continue challenge in codewar 
