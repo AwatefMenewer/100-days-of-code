@@ -190,3 +190,11 @@ and Continue challenge in codewar
 ### Day 34:  Oct  16, 2021
 
 **Today's Progress**:  Learned how Passing children to component in react  Continue challenge in codewar 
+
+### Day 35:  Oct  17, 2021
+
+**Today's Progress**:  Learned how to use json in react  Continue challenge in codewar 
+
+### Day 36:  Oct  18, 2021
+
+**Today's Progress**:  Learned how to styling  in react  Continue challenge in codewar 
