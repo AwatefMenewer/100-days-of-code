@@ -198,3 +198,7 @@ and Continue challenge in codewar
 ### Day 36:  Oct  18, 2021
 
 **Today's Progress**:  Learned how to styling  in react  Continue challenge in codewar 
+
+### Day 37:  Oct  19, 2021
+
+**Today's Progress**:  Learned how to setting up Webpack with SCSS  in react  Continue challenge in codewar
