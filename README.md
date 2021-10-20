@@ -202,3 +202,9 @@ and Continue challenge in codewar
 ### Day 37:  Oct  19, 2021
 
 **Today's Progress**:  Learned how to setting up Webpack with SCSS  in react  Continue challenge in codewar
+
+### Day 38:  Oct  19, 2021
+
+**Today's Progress**:  Learned how to put every component in sigle file in react   and Continue challenge in codewar
+
+**Thoughts**: I like how every component be a single page make it easy to handle each file and finger out where error come from 
