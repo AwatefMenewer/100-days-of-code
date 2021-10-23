@@ -208,3 +208,7 @@ and Continue challenge in codewar
 **Today's Progress**:  Learned how to put every component in sigle file in react   and Continue challenge in codewar
 
 **Thoughts**: I like how every component be a single page make it easy to handle each file and finger out where error come from 
+
+### Day 39:  Oct  21, 2021
+
+**Today's Progress**:  Learned how source map with webpack in react   
