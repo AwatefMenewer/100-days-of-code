@@ -212,3 +212,7 @@ and Continue challenge in codewar
 ### Day 39:  Oct  21, 2021
 
 **Today's Progress**:  Learned how source map with webpack in react   
+
+### Day 40:  Oct  22, 2021
+
+**Today's Progress**:  Learned how setting up react-modal and Continue challenge in codewar and read chapter five of cracking the coding interview 
