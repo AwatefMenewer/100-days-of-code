@@ -221,3 +221,8 @@ and Continue challenge in codewar
 
 **Today's Progress**:  Learned how architecure and header style in react   
 
+### Day 42:  Oct  24, 2021
+
+**Today's Progress**:  review all  react concepts and Continue  challenge in codewar 
+
+**Thoughts**: After I studied and focused in react it's time to review fundamental and concepts to become easy when apply project
