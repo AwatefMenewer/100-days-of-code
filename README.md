@@ -216,3 +216,8 @@ and Continue challenge in codewar
 ### Day 40:  Oct  22, 2021
 
 **Today's Progress**:  Learned how setting up react-modal and Continue challenge in codewar and read chapter five of cracking the coding interview 
+
+### Day 41:  Oct  23, 2021
+
+**Today's Progress**:  Learned how architecure and header style in react   
+
