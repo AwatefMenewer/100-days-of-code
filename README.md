@@ -226,3 +226,7 @@ and Continue challenge in codewar
 **Today's Progress**:  review all  react concepts and Continue challenge in codewar 
 
 **Thoughts**: After I studied and focused in react it's time to review fundamental and concepts to become easy when apply project
+
+### Day 43:  Oct  25, 2021
+
+**Today's Progress**:  start small project in react which review all concepts and Continue challenge in codewar 
