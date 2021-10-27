@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+body {
+    background-color: hsl(210, 46%, 95%);
+    color: hsl(212, 23%, 69%);
+    font-size: 13px;
+    font-family: 'Manrope', sans-serif;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    width: 62%;
+    margin: auto;
+    height: 360px;
+    margin-top: 160px;
+    background-color: white;
+    display: flex;
+    border-radius: 10px;
+    
+}
+
+.card-img {
+    flex-basis: 47%;
+
+}
+.card-img-left {
+    width: 100%;
+    border: none;
+    height: 100%;
+    border-radius: 10px 0 0 10px;
+
+}
+.card-info {
+    flex-basis: 53%;
+    margin: 30px 38px 38px 30px;
+
+}
+.card-title{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.5;
+    color: hsl(217, 19%, 35%);
+
+}
+.card-text{
+    line-height: 1.7;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.user-info{
+    display: flex;
+    padding: 6px;
+    margin-bottom: 34px;
+    flex-wrap: wrap;  
+
+}
+.user-img {
+    width: 15%;
+    border-radius: 50%;
+    margin-top: 12px;
+    margin-left: 0;
+  
+}
+.user-name {
+  margin-left: 32px;
+  color: hsl(217, 19%, 35%);
+
+}
+
+.user-date {
+   margin-left: 85px;
+   margin-top: -20px;
+
+}
+.share-btn{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    margin:  -90px 10px  10px auto;
+    text-align: center;
+    padding-top: 10px;
+    background-color:hsl(210, 46%, 95%) ;
+    border-radius: 50%;
+    color:  hsl(217, 19%, 35%);
+}
+
+.share-btn:hover{
+    background-color: hsl(217, 19%, 35%);
+    color:white;
+    cursor: pointer;
+}
+.share-btn:hover .socail-share{
+    visibility: visible;
+    opacity: 1;
+ 
+}
+.socail-share {
+    visibility: hidden;
+    opacity: 0;
+    display: flex;
+    align-items:center;
+    background-color: hsl(217, 19%, 35%);
+    position:absolute;
+    top: -64px;
+    right: -94px;
+    padding: 15px 30px;
+    border-radius: 10px;
+    transition: visibility 0s, opacity 0.2s linear;
+    
+}
+.socail-share::after{
+    position:absolute;
+    bottom: -28%;
+    left: 50%;
+    content: "";
+    border-top: 15px solid hsl(217, 19%, 35%);
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+} 
+.socail-share > span{
+    letter-spacing: 5px;
+}
+
+.socail-share > i {
+    font-size: 20px;
+    margin-left: 20px;
+}
+.socail-share > i:hover{
+    width: auto;
+    background-color: white;
+    color:hsl(217, 19%, 35%);
+}
+@media (max-width:675px){
+    .card{
+        flex-direction: column;
+        border-radius: 10px 10px  0 0;
+        width: 72%;
+        margin: auto;
+        height: 580px;
+    }
+
+    .card-img {
+        flex-basis: 40%
+    
+    }
+    .card-img-left {
+        height: 80%;
+        border-radius: 10px 10px  0 0;
+    }
+    .card-info {
+        flex-basis: 60%;
+        border-radius: 0 0  10px 10px;
+        margin-top: 0;
+      
+    }
+    .card-title{
+        font-size: 16px;
+        margin-top: 0;
+    }
+
+    .card-text{
+        line-height: 1.4;
+        font-weight: 400;
+        margin-bottom: 30px;
+    }
+    .user-date {
+  
+        margin-top: -10px;
+     
+     }
+    .share-btn{
+        position: static;
+        z-index: 9999;
+    }
+
+
+    .socail-share{
+        width: 70%;
+        top:590px;
+        margin: 0 180px 0  76px;
+        left: 0;
+        padding:24px 0;
+        justify-content: center;
+        z-index: -1;
+        border-radius: 0 0 10px 10px;
+    }
+    .socail-share::after{
+        display: none;
+    }
+
+}
+

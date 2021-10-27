@@ -234,3 +234,11 @@ and Continue challenge in codewar
 ### Day 44:  Oct  26, 2021
 
 **Today's Progress**: Continue small project in react and Continue challenge in codewar 
+
+### Day 45:  Oct  27, 2021
+
+**Today's Progress**: start in react router  and Continue challenge in codewar 
+
+**Thoughts**: I feel a little confused about a new topic,it is not easy to learn new concepts but it will become easy when you practices it
+
+**Link to work:**[Article-Preview](https://affectionate-williams-bd59f4.netlify.app/)
