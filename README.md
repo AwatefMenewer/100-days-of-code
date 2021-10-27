@@ -230,3 +230,7 @@ and Continue challenge in codewar
 ### Day 43:  Oct  25, 2021
 
 **Today's Progress**:  start small project in react which review all concepts and Continue challenge in codewar 
+
+### Day 44:  Oct  26, 2021
+
+**Today's Progress**: Continue small project in react and Continue challenge in codewar 
