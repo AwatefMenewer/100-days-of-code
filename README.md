@@ -254,3 +254,7 @@ and Continue challenge in codewar
 ### Day 48:  Oct  30, 2021
 
 **Today's Progress**: Learned set up a 404 in react and Continue challenge in codewar 
+
+### Day 49:  Oct  31, 2021
+
+**Today's Progress**: Learned linked between routes in react and Continue challenge in codewar 
