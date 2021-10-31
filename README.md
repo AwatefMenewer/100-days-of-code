@@ -250,3 +250,7 @@ and Continue challenge in codewar
 ### Day 47:  Oct  29, 2021
 
 **Today's Progress**: Learned React-Router and Continue challenge in codewar 
+
+### Day 48:  Oct  30, 2021
+
+**Today's Progress**: Learned set up a 404 in react and Continue challenge in codewar 
