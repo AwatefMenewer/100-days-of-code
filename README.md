@@ -247,3 +247,6 @@ and Continue challenge in codewar
 
 **Today's Progress**: Learned Server vs.Client Routing  and Continue challenge in codewar 
 
+### Day 47:  Oct  29, 2021
+
+**Today's Progress**: Learned React-Router and Continue challenge in codewar 
