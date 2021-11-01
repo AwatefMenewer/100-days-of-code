@@ -258,3 +258,7 @@ and Continue challenge in codewar
 ### Day 49:  Oct  31, 2021
 
 **Today's Progress**: Learned linked between routes in react and Continue challenge in codewar 
+
+### Day 50:  Nov  1, 2021
+
+**Today's Progress**: Learned Organizing Our Routes  in react and Continue challenge in codewar 
