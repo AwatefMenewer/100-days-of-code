@@ -262,3 +262,7 @@ and Continue challenge in codewar
 ### Day 50:  Nov  1, 2021
 
 **Today's Progress**: Learned Organizing Our Routes  in react and Continue challenge in codewar 
+
+### Day 51:  Nov  2, 2021
+
+**Today's Progress**: Learned how to set up redux and Continue challenge in code war
