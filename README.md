@@ -266,3 +266,7 @@ and Continue challenge in codewar
 ### Day 51:  Nov  2, 2021
 
 **Today's Progress**: Learned how to set up redux and Continue challenge in code war
+
+### Day 52:  Nov  3, 2021
+
+**Today's Progress**: Learned how to Dispatch action in react and Continue challenge in code war
