@@ -270,3 +270,7 @@ and Continue challenge in codewar
 ### Day 52:  Nov  3, 2021
 
 **Today's Progress**: Learned how to Dispatch action in react and Continue challenge in code war
+
+### Day 53:  Nov  4, 2021
+
+**Today's Progress**: Learned subscribe and dynamic actions in react and Continue challenge in code war
