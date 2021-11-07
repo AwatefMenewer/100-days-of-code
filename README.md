@@ -274,3 +274,7 @@ and Continue challenge in codewar
 ### Day 53:  Nov  4, 2021
 
 **Today's Progress**: Learned subscribe and dynamic actions in react and Continue challenge in code war
+
+### Day 54:  Nov  5, 2021
+
+**Today's Progress**: Learned object destructuring in react and Continue challenge in code war
