@@ -282,3 +282,7 @@ and Continue challenge in codewar
 ### Day 55:  Nov  6, 2021
 
 **Today's Progress**: Learned Array destructuring in react and Continue challenge in code war
+
+### Day 56:  Nov  7, 2021
+
+**Today's Progress**: Learned refactor and organic a in react and Continue challenge in code war
