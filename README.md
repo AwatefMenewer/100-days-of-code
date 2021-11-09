@@ -289,4 +289,8 @@ and Continue challenge in codewar
 
 ### Day 57:  Nov  8, 2021
 
-**Today's Progress**: how to  spreading Objects in react and Continue challenge in code war
+**Today's Progress**:Learned how to  spreading Objects in react and Continue challenge in code war
+
+### Day 58:  Nov  9, 2021
+
+**Today's Progress**:Learned how to  wrap up our reducers in react and Continue challenge in code war
