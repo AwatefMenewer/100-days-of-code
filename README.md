@@ -286,3 +286,7 @@ and Continue challenge in codewar
 ### Day 56:  Nov  7, 2021
 
 **Today's Progress**: Learned refactor and organic a in react and Continue challenge in code war
+
+### Day 57:  Nov  8, 2021
+
+**Today's Progress**: how to  spreading Objects in react and Continue challenge in code war
