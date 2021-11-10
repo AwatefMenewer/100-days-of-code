@@ -294,3 +294,11 @@ and Continue challenge in codewar
 ### Day 58:  Nov  9, 2021
 
 **Today's Progress**:Learned how to  wrap up our reducers in react and Continue challenge in code war
+
+### Day 59:  Nov  10, 2021
+
+**Today's Progress**:Learned tailwind css  and Continue challenge in code war
+
+
+**Thoughts**: tailwind not hard to learn it's like bootstrap contains 
+ classes
