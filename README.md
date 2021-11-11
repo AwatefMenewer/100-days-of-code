@@ -302,3 +302,8 @@ and Continue challenge in codewar
 
 **Thoughts**: tailwind not hard to learn it's like bootstrap contains 
  classes
+
+
+### Day 60:  Nov  10, 2021
+
+**Today's Progress**: Continue learend tailwind  css  and Continue challenge in code war
