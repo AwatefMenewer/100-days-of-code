@@ -304,6 +304,10 @@ and Continue challenge in codewar
  classes
 
 
-### Day 60:  Nov  10, 2021
+### Day 60:  Nov  11, 2021
+
+**Today's Progress**: Continue learend tailwind  css  and Continue challenge in code war
+
+### Day 61:  Nov  12, 2021
 
 **Today's Progress**: Continue learend tailwind  css  and Continue challenge in code war
