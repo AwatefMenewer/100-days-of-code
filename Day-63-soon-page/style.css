@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body{
+    font-size: 16px;
+    background-color:white;
+    display: flex;
+    font-family: 'Josefin Sans', sans-serif;
+    box-sizing: border-box;  
+}
+
+.card {
+    display: flex;
+    flex-direction: row-reverse;
+    width:100%;
+    height: 100%;
+    background-color: white;
+   
+
+}
+.card-info {
+    flex-basis: 55%;
+    background-image: url(./images/bg-pattern-desktop.svg);
+    
+}
+.card-logo{
+    margin:20px 120px 48px 140px; 
+  
+
+}
+.card-title{
+    margin:16px 120px 16px 140px; 
+    font-size: 4.6rem;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+
+}
+span {
+    font-weight: 300;
+    color: hsl(0, 36%, 70%);
+
+}
+b {
+    font-weight: 700;
+   
+}
+.card-text {
+    margin:24px 120px 16px 140px; 
+    line-height: 2;
+    color: hsl(0, 36%, 70%);
+}
+.card-form{
+    margin:48px  120px 48px 140px; 
+    position: relative;
+    border: none;
+    border-radius: 30px;
+}
+
+.input-email{
+    background-color: transparent;
+    width: 100%;
+    padding: 1rem;
+    border: 1px solid hsl(0, 36%, 70%); 
+    border-radius: 30px;
+ }
+
+  .input-email:focus {
+    outline: 1px solid  hsl(0, 36%, 70%); 
+  }
+
+
+ .button{
+  width: 30%;
+  position: absolute; 
+  border-radius: 30px;
+  height: 50px;
+  line-height: 50px;
+  right: 0;
+  top: 0;
+  align-items: center;
+  background: linear-gradient(135deg, hsl(0, 80%, 86%), hsl(0, 74%, 74%));
+  box-shadow: 0 5px 10px hsla(0, 36%, 70%, 0.8);
+  transition: 0.2s ease-in-out;
+  color: white;
+  border: none; 
+  transition: 0.7s; 
+}
+
+.icon-arrow{
+    margin-top: 16px;
+}
+
+.button:hover {
+    cursor: pointer;
+    opacity: 0.8;
+    box-shadow: 0 10px 15px hsla(0, 36%, 70%, 0.8);
+}
+.icon-error{
+    position:absolute;
+    top:10px;
+    right:125px;
+    
+} 
+.text-value{
+    position:absolute;
+    left:160px;
+    bottom: -30px;
+    color: hsl(0, 93%, 68%);
+}
+
+.card-img{
+    flex-basis: 45%;
+
+}

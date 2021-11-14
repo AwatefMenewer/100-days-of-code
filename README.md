@@ -314,4 +314,15 @@ and Continue challenge in codewar
 
 ### Day 62:  Nov  13, 2021
 
-**Today's Progress**:  Continue challenge in codewar and read chapter five of cracking the coding interview ,and Continue challenge in code war
+**Today's Progress**:  Continue challenge in codewar and read chapter five of cracking the coding interview 
+
+### Day 63:  Nov  14, 2021
+
+**Today's Progress**:   Continue learend tailwind css ,Continue challenge in codewar
+, and  Start learn big O
+
+**Thoughts**: today struggle with tailwind css become complex to me ,and learn new concept for me is big O, and build small project validate email
+
+**Link to work:**[Soon-page](https://relaxed-panini-2dce26.netlify.app/)
+
+
