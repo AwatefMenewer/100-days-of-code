@@ -318,11 +318,16 @@ and Continue challenge in codewar
 
 ### Day 63:  Nov  14, 2021
 
-**Today's Progress**:   Continue learend tailwind css ,Continue challenge in codewar
-, and  Start learn big O
+**Today's Progress**:  Continue to learn tailwind CSS, Continue challenge in the code war, and Start to learn big O
 
 **Thoughts**: today struggle with tailwind css become complex to me ,and learn new concept for me is big O, and build small project validate email
 
-**Link to work:**[Soon-page](https://relaxed-panini-2dce26.netlify.app/)
+**Link to work:**[Soon-page](https://zealous-hermann-9ad2ef.netlify.app/)
 
+### Day 64:  Nov  15, 2021
 
+**Today's Progress**:  Continue challenge in the code war, Continue to learn big O, and build small project with tailwind css
+
+**Thoughts**: I spend most day tried to build project in tailwind css, it not easy but i did it
+
+**Link to work:**[Recipes](https://quizzical-lovelace-56ffc7.netlify.app/)
