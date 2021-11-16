@@ -331,3 +331,10 @@ and Continue challenge in codewar
 **Thoughts**: I spend most day tried to build project in tailwind css, it not easy but i did it
 
 **Link to work:**[Recipes](https://quizzical-lovelace-56ffc7.netlify.app/)
+
+
+### Day 65:  Nov  16, 2021
+
+**Today's Progress**:  Continue challenge in the code war, Continue to learn big O
+
+**Thoughts**: today my focus how to master big O and prepare for  tech interview 
