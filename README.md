@@ -338,3 +338,9 @@ and Continue challenge in codewar
 **Today's Progress**:  Continue challenge in the code war, Continue to learn big O
 
 **Thoughts**: today my focus how to master big O and prepare for  tech interview 
+
+
+### Day 66:  Nov  17, 2021
+
+**Today's Progress**:  Continue challenge in the code war, Continue to learn big O
+
