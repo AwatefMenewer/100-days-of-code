@@ -347,4 +347,8 @@ and Continue challenge in codewar
 
 ### Day 67:  Nov  18, 2021
 
-**Today's Progress**:   Continue laern taillwind Css ,Continue challenge in the code war, Continue to learn big O
+**Today's Progress**:  Continue to learn tailwind CSS ,Continue challenge in the code war, Continue to learn big O
+
+### Day 68:  Nov  19, 2021
+
+**Today's Progress**: Continue to learn big O
