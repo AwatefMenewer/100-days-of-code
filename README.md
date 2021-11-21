@@ -356,3 +356,8 @@ and Continue challenge in codewar
 ### Day 69:  Nov  20, 2021
 
 **Today's Progress**: learn how to set up a jest in react
+
+### Day 70:  Nov  21, 2021
+
+**Today's Progress**: learn how test expenses action generators in react , Continue to learn big O, and Continue challenge in the code war
+
