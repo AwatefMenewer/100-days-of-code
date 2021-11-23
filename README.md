@@ -361,6 +361,10 @@ and Continue challenge in codewar
 
 **Today's Progress**: learn how test expenses action generators in react , Continue to learn big O, and Continue challenge in the code war
 
-### Day 71:  Nov  21, 2021
+### Day 71:  Nov  22, 2021
 
 **Today's Progress**: learn how test component in react , Continue to learn big O, and Continue challenge in the code war
+
+### Day 72:  Nov  23, 2021
+
+**Today's Progress**: Continue to learn big O, and Continue challenge in the code war
