@@ -368,3 +368,7 @@ and Continue challenge in codewar
 ### Day 72:  Nov  23, 2021
 
 **Today's Progress**: Continue to learn big O, and Continue challenge in the code war
+
+### Day 73:  Nov  24, 2021
+
+**Today's Progress**: review what learnt in tailwind and react
