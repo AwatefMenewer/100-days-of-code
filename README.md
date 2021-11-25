@@ -372,3 +372,8 @@ and Continue challenge in codewar
 ### Day 73:  Nov  24, 2021
 
 **Today's Progress**: review what learnt in tailwind and react
+
+
+### Day 74:  Nov  25, 2021
+
+**Today's Progress**: Learned git and github
