@@ -381,3 +381,16 @@ and Continue challenge in codewar
 ### Day 75:  Nov  26, 2021
 
 **Today's Progress**  Start learned node.js
+
+### Day 76:  Nov  27, 2021
+
+**Today's Progress**  Learned how to import node.js core modules
+
+
+### Day 76:  Nov  27, 2021
+
+**Today's Progress**  Learned how to import node.js core modules
+
+### Day 77:  Nov  28, 2021
+
+**Today's Progress**  Learned how to get input from Users and store data with JSON
