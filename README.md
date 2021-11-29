@@ -387,10 +387,15 @@ and Continue challenge in codewar
 **Today's Progress**  Learned how to import node.js core modules
 
 
-### Day 76:  Nov  27, 2021
+### Day 77:  Nov  27, 2021
 
 **Today's Progress**  Learned how to import node.js core modules
 
-### Day 77:  Nov  28, 2021
+### Day 78:  Nov  28, 2021
 
 **Today's Progress**  Learned how to get input from Users and store data with JSON
+
+
+### Day 79:  Nov  29, 2021
+
+**Today's Progress**  Learned how to debugging in node
