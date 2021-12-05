@@ -423,3 +423,7 @@ and Continue challenge in codewar
 ### Day 85:  Dec 4, 2021
 
 **Today's Progress**  Learned how to custome HTTP Requests in node
+
+### Day 86:  Dec 5, 2021
+
+**Today's Progress**  Learned how to how to hansling Errors in node
