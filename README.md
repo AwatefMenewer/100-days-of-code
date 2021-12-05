@@ -403,3 +403,7 @@ and Continue challenge in codewar
 ### Day 80:  Nov  30, 2021
 
 **Today's Progress**  Learned Asynchronous in node
+
+### Day 81:  Dec 1, 2021
+
+**Today's Progress**  Learned Call Stack in node
