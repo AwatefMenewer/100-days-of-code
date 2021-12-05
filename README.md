@@ -411,3 +411,7 @@ and Continue challenge in codewar
 ### Day 82:  Dec 1, 2021
 
 **Today's Progress**  Learned Callback Queue in node
+
+### Day 83:  Dec 2, 2021
+
+**Today's Progress**  Learned Event Loop in node
