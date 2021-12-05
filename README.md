@@ -415,3 +415,7 @@ and Continue challenge in codewar
 ### Day 83:  Dec 2, 2021
 
 **Today's Progress**  Learned Event Loop in node
+
+### Day 84:  Dec 3, 2021
+
+**Today's Progress**  Learned how make HTTP Requests in node
