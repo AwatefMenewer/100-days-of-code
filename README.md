@@ -407,3 +407,7 @@ and Continue challenge in codewar
 ### Day 81:  Dec 1, 2021
 
 **Today's Progress**  Learned Call Stack in node
+
+### Day 82:  Dec 1, 2021
+
+**Today's Progress**  Learned Callback Queue in node
