@@ -387,10 +387,6 @@ and Continue challenge in codewar
 **Today's Progress**  Learned how to import node.js core modules
 
 
-### Day 77:  Nov  27, 2021
-
-**Today's Progress**  Learned how to import node.js core modules
-
 ### Day 78:  Nov  28, 2021
 
 **Today's Progress**  Learned how to get input from Users and store data with JSON
@@ -418,12 +414,16 @@ and Continue challenge in codewar
 
 ### Day 84:  Dec 3, 2021
 
-**Today's Progress**  Learned how make HTTP Requests in node
+**Today's Progress**  Learned how to make HTTP Requests in node
 
 ### Day 85:  Dec 4, 2021
 
-**Today's Progress**  Learned how to custome HTTP Requests in node
+**Today's Progress**  Learned how to customize HTTP Requests in node
 
 ### Day 86:  Dec 5, 2021
 
-**Today's Progress**  Learned how to how to hansling Errors in node
+**Today's Progress**  Learned how to  handle Errors in node
+
+### Day 87:  Dec 6, 2021
+
+**Today's Progress**  Learned how to use the Callback function and Callback Abstraction  in node 
