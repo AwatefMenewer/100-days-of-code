@@ -427,3 +427,7 @@ and Continue challenge in codewar
 ### Day 87:  Dec 6, 2021
 
 **Today's Progress**  Learned how to use the Callback function and Callback Abstraction  in node 
+
+### Day 88:  Dec 7, 2021
+
+**Today's Progress**  Learned how to use the Callback Chaining 
