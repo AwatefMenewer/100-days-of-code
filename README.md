@@ -431,3 +431,7 @@ and Continue challenge in codewar
 ### Day 88:  Dec 7, 2021
 
 **Today's Progress**  Learned how to use the Callback Chaining 
+
+### Day 89:  Dec 8, 2021
+
+**Today's Progress**  Learned how to use the Express
