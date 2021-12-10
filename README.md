@@ -439,3 +439,7 @@ and Continue challenge in codewar
 ### Day 90:  Dec 9, 2021
 
 **Today's Progress**  Learned how to build JSON HTTP endpoint
+
+### Day 91:  Dec 10, 2021
+
+**Today's Progress**  Learned how browser HTTP requests with fetch
