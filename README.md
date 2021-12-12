@@ -446,4 +446,8 @@ and Continue challenge in codewar
 
 ### Day 92:  Dec 11, 2021
 
-**Today's Progress**  Learned how use   Heroku in Github 
+**Today's Progress**  Learned how to use Heroku in Github 
+
+### Day 93:  Dec 12, 2021
+
+**Today's Progress**  Learned how to deploy node.js to Heroku  
