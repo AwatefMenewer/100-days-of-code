@@ -455,3 +455,7 @@ and Continue challenge in codewar
 ### Day 94:  Dec 13, 2021
 
 **Today's Progress**  Start learn MongoDB AND NoSQL Databases
+
+### Day 95:  Dec 14, 2021
+
+**Today's Progress**  Learned how insert and update and delete in  MongoDB 
