@@ -463,3 +463,7 @@ and Continue challenge in codewar
 ### Day 96:  Dec 15, 2021
 
 **Today's Progress**  Learned how to create mongoose Model 
+
+### Day 97:  Dec 16, 2021
+
+**Today's Progress**  Learned how to Structure a REST API
