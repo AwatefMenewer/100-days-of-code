@@ -467,3 +467,7 @@ and Continue challenge in codewar
 ### Day 97:  Dec 16, 2021
 
 **Today's Progress**  Learned how to Structure a REST API
+
+### Day 98:  Dec 16, 2021
+
+**Today's Progress**  Learned a promise chain
