@@ -471,3 +471,7 @@ and Continue challenge in codewar
 ### Day 98:  Dec 16, 2021
 
 **Today's Progress**  Learned a promise chain
+
+### Day 99:  Dec 17, 2021
+
+**Today's Progress**  Learned how to login in User in node.js
