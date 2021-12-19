@@ -475,3 +475,7 @@ and Continue challenge in codewar
 ### Day 99:  Dec 17, 2021
 
 **Today's Progress**  Learned how to login in User in node.js
+
+### Day 100:  Dec 18, 2021
+
+**Today's Progress**  Learned how to use JSON web Tokens and generate Authentication Tokens 
